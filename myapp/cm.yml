@@ -4,5 +4,6 @@ metadata:
   name: myapp-config
 data:
   index.html: |
+    Hello, human user! <p>
     Congratulations! <p>
     This is piotr's test app deployed via ArgoCD!
